@@ -1,0 +1,6 @@
+flask
+sentence-transformers
+transformers
+safetensors
+numpy
+peft
