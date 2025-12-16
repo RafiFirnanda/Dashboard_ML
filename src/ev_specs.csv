@@ -1,0 +1,34 @@
+model_keyword,real_name,price,range,img_url
+model 3,Tesla Model 3,$38990,513 km,https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/2019_Tesla_Model_3_Performance_AWD_Front.jpg/640px-2019_Tesla_Model_3_Performance_AWD_Front.jpg
+model y,Tesla Model Y,$43990,533 km,https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Tesla_Model_Y_1X7A6211.jpg/640px-Tesla_Model_Y_1X7A6211.jpg
+model s,Tesla Model S,$74990,634 km,https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/2017_Tesla_Model_S_75D.jpg/640px-2017_Tesla_Model_S_75D.jpg
+model x,Tesla Model X,$79990,576 km,https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/2017_Tesla_Model_X_100D_Front.jpg/640px-2017_Tesla_Model_X_100D_Front.jpg
+cybertruck,Tesla Cybertruck,$60990,547 km,https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tesla_Cybertruck_Franz_von_Holzhausen_%28cropped%29.jpg/640px-Tesla_Cybertruck_Franz_von_Holzhausen_%28cropped%29.jpg
+ioniq 5,Hyundai Ioniq 5,$41800,481 km,https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/2022_Hyundai_Ioniq_5_Limited_AWD_%28United_States%29_front_view_01.png/640px-2022_Hyundai_Ioniq_5_Limited_AWD_%28United_States%29_front_view_01.png
+ioniq 6,Hyundai Ioniq 6,$42450,545 km,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2023_Hyundai_Ioniq_6_SE_AWD_%28United_States%29_front_view.jpg/640px-2023_Hyundai_Ioniq_6_SE_AWD_%28United_States%29_front_view.jpg
+kona,Hyundai Kona Electric,$32675,418 km,https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/2019_Hyundai_Kona_Electric_SEL_%28United_States%29_front_view.jpg/640px-2019_Hyundai_Kona_Electric_SEL_%28United_States%29_front_view.jpg
+wuling,Wuling Air EV,$15000,300 km,https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/2022_Wuling_Air_EV_Long_Range_%28Indonesia%29_front_view.jpg/640px-2022_Wuling_Air_EV_Long_Range_%28Indonesia%29_front_view.jpg
+binguo,Wuling BinguoEV,$20000,410 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/2024_Wuling_Binguo_EV_Premium_Range_%28Indonesia%29_front_view.jpg/640px-2024_Wuling_Binguo_EV_Premium_Range_%28Indonesia%29_front_view.jpg
+atto 3,BYD Atto 3,$35000,420 km,https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/BYD_Atto_3_Genf_2022_1X7A3245.jpg/640px-BYD_Atto_3_Genf_2022_1X7A3245.jpg
+dolphin,BYD Dolphin,$29000,340 km,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/2023_BYD_Dolphin_Plus_%28Thailand%29_front_view_02.jpg/640px-2023_BYD_Dolphin_Plus_%28Thailand%29_front_view_02.jpg
+seal,BYD Seal,$45000,570 km,https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/BYD_Seal_IAA_2023_1X7A0343.jpg/640px-BYD_Seal_IAA_2023_1X7A0343.jpg
+mg4,MG 4 EV,$30000,450 km,https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/MG_4_EV_IAA_2023_1X7A0168.jpg/640px-MG_4_EV_IAA_2023_1X7A0168.jpg
+leaf,Nissan Leaf,$28140,270 km,https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/2018_Nissan_Leaf_TEKNA_Front.jpg/640px-2018_Nissan_Leaf_TEKNA_Front.jpg
+ariya,Nissan Ariya,$43190,490 km,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/2023_Nissan_Ariya_Engage_e-4ORCE_%28United_States%29_front_view.jpg/640px-2023_Nissan_Ariya_Engage_e-4ORCE_%28United_States%29_front_view.jpg
+bolt,Chevy Bolt EV,$26500,417 km,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/2017_Chevrolet_Bolt_EV_Premier_2018_GIMS.jpg/640px-2017_Chevrolet_Bolt_EV_Premier_2018_GIMS.jpg
+taycan,Porsche Taycan,$90900,450 km,https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Porsche_Taycan_4S_Geneva_International_Motor_Show_2019_Le_Grand-Saconnex_IMG_0531.jpg/640px-Porsche_Taycan_4S_Geneva_International_Motor_Show_2019_Le_Grand-Saconnex_IMG_0531.jpg
+ev6,Kia EV6,$42600,528 km,https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/2022_Kia_EV6_GT-Line_%28United_States%29_front_view.jpg/640px-2022_Kia_EV6_GT-Line_%28United_States%29_front_view.jpg
+ev9,Kia EV9,$54900,489 km,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2024_Kia_EV9_GT-Line_AWD_%28United_States%29_front_view.jpg/640px-2024_Kia_EV9_GT-Line_AWD_%28United_States%29_front_view.jpg
+niro,Kia Niro EV,$39600,407 km,https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/2023_Kia_Niro_EV_Wind_%28United_States%29_front_view.jpg/640px-2023_Kia_Niro_EV_Wind_%28United_States%29_front_view.jpg
+mach-e,Ford Mustang Mach-E,$39995,470 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Ford_Mustang_Mach-E_GT_IAA_2021_1X7A0162.jpg/640px-Ford_Mustang_Mach-E_GT_IAA_2021_1X7A0162.jpg
+lightning,Ford F-150 Lightning,$49995,515 km,https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/2022_Ford_F-150_Lightning_Lariat_SuperCrew_%28United_States%29_front_view.jpg/640px-2022_Ford_F-150_Lightning_Lariat_SuperCrew_%28United_States%29_front_view.jpg
+i4,BMW i4,$52200,484 km,https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/BMW_i4_eDrive40_G26_IMG_5333.jpg/640px-BMW_i4_eDrive40_G26_IMG_5333.jpg
+ix,BMW iX,$87100,521 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/BMW_iX_xDrive40_IAA_2021_1X7A0108.jpg/640px-BMW_iX_xDrive40_IAA_2021_1X7A0108.jpg
+etron,Audi e-tron GT,$106500,383 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Audi_e-tron_GT_IAA_2021_1X7A0261.jpg/640px-Audi_e-tron_GT_IAA_2021_1X7A0261.jpg
+lucid,Lucid Air,$77400,653 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lucid_Air_Grand_Touring_%28United_States%29_front_view.jpg/640px-Lucid_Air_Grand_Touring_%28United_States%29_front_view.jpg
+polestar,Polestar 2,$49900,476 km,https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/2021_Polestar_2_front_view.jpg/640px-2021_Polestar_2_front_view.jpg
+xc40,Volvo XC40 Recharge,$53550,472 km,https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/2021_Volvo_XC40_Recharge_P8_AWD_front_view.jpg/640px-2021_Volvo_XC40_Recharge_P8_AWD_front_view.jpg
+mini,Mini Cooper SE,$30900,233 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Mini_Hatch_%28F56%29_Electric_IMG_4111.jpg/640px-Mini_Hatch_%28F56%29_Electric_IMG_4111.jpg
+bz4x,Toyota bZ4X,$42000,406 km,https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Toyota_bZ4X_FWD_XLE_%28United_States%29_front_view_02.jpg/640px-Toyota_bZ4X_FWD_XLE_%28United_States%29_front_view_02.jpg
+id4,Volkswagen ID.4,$38995,443 km,https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Volkswagen_ID.4_1st_Max_IMG_3515.jpg/640px-Volkswagen_ID.4_1st_Max_IMG_3515.jpg
+rivian,Rivian R1T,$73000,505 km,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/2022_Rivian_R1T_Launch_Edition_Front.jpg/640px-2022_Rivian_R1T_Launch_Edition_Front.jpg
